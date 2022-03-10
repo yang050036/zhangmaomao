@@ -1,4 +1,4 @@
-# zhaomaomao
+# zhangmaomao
 This project contains the code of zhangmaomao.
 
 seurat.R is the code of read files from cellranger, integrated data, normalize data, scale data, dimensionality reduction and cluster based on Seurat V3.2 (https://github.com/satijalab/seurat).  
