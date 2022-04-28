@@ -1,5 +1,5 @@
 # zhangmaomao
 This project contains the code of zhangmaomao.
 
-seurat.R is the code of read files from cellranger, integrated data, normalize data, scale data, dimensionality reduction and cluster based on Seurat V3.2 (https://github.com/satijalab/seurat).  
-monocle.R is the code of subset the data and run trajectory analysis with monocle2 (http://cole-trapnell-lab.github.io/monocle-release/).
+scripts: contains the code of create seurat object, integrate data, and subset data with Seurat, annotation with SingleR, GO/KEGG with clusterprofiler, gsva with GSVA, pseudotime with monocle2 and SCORPIUS, cell-cell communication with CellChat and nichenetr.    
+Metabolism_gene: gene list for GSVA.
